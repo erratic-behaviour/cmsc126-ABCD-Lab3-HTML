@@ -1,2 +1,2 @@
-# CMSC126-LAB-3-HTML
+#cmsc126-ABCD-lab3-html
 lab 3 cmsc 126
